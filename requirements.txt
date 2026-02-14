@@ -3,4 +3,4 @@ uvicorn
 gunicorn
 motor
 python-dotenv
-pydantic
+pydantic[email]
