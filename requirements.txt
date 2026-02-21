@@ -4,3 +4,4 @@ gunicorn
 motor
 python-dotenv
 pydantic[email]
+python-dotenv
